@@ -1,0 +1,18 @@
+{
+  "timeZone": "Europe/Moscow",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "Underscore",
+        "libraryId": "1PcEHcGVC1njZd8SfXtmgQk19djwVd2GrrW1gd7U5hNk033tzi6IUvIAV",
+        "version": "2"
+      }
+    ]
+  },
+  "webapp": {
+    "executeAs": "USER_ACCESSING",
+    "access": "ANYONE"
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
