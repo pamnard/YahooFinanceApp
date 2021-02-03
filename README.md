@@ -5,7 +5,7 @@ ID библиотеки:
 
 ``1kduPhzbFl7ScPM-vCa30ANt23AKApJvDP-BU-ggurDDXSGC7oNWe9b8y``
 
-## Функции
+## Методы
 
 Названы по именам соответсвующих модулей в исходном API
 
